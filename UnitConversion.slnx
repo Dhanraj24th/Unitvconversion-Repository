@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UnitConversion.Api.Tests/UnitConversion.Api.Tests.csproj" />
+  <Project Path="UnitConversion.Api/UnitConversion.Api.csproj" />
+</Solution>
