@@ -25,9 +25,9 @@ The launch profile prints the local HTTP and HTTPS addresses. In Development, th
 
 ```json
 {
-  "from": "mi",
-  "to": "km",
-  "value": 2
+  "From": "mi",
+  "To": "km",
+  "Value": 2
 }
 ```
 
@@ -35,11 +35,11 @@ Example response:
 
 ```json
 {
-  "category": "length",
-  "value": 2,
-  "from": "mi",
-  "result": 3.218688,
-  "to": "km"
+  "Category": "length",
+  "Value": 2,
+  "From": "mi",
+  "Result": 3.218688,
+  "To": "km"
 }
 ```
 
